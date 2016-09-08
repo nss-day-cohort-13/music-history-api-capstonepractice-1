@@ -1,5 +1,5 @@
 .DS_Store
 *.pyc
-pychache/**/*
+__pycache__/
 *.sql
 .python-version
