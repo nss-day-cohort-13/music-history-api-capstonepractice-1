@@ -1,0 +1,16 @@
+{
+  "name": "musichistory-client",
+  "homepage": "https://github.com/nss-day-cohort-13/music-history-api-capstonepractice-1",
+  "authors": [
+    "pbhowelljr <pbhowelljr@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.5.8",
+    "bootstrap": "^3.3.7",
+    "angular-route": "^1.5.8"
+  }
+}
